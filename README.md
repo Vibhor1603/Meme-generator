@@ -1,3 +1,7 @@
+This is a React project made by me to practice my concepts of State, props and useEffect hooks.
+Do not focus on the Styling / CSS as that is not the main objective of this project.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
