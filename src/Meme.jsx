@@ -1,6 +1,5 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
-import memesData from "./assets/memesData";
  
 export default function Meme(){
     const[meme, setState] =React.useState({
