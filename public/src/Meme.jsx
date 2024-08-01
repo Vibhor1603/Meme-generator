@@ -57,7 +57,7 @@ value={meme.bottomText} onChange={handleChange}/>
 <br />
 </div>
 </div>
-<button onClick={URLgenerate} >Get a new meme image <img src="./src/assets/picture.png" alt="img" className="pic-icon" /></button>
+<button onClick={URLgenerate} >Get a new meme image <img src="/picture.png" alt="img" className="pic-icon" /></button>
 <div className="meme-box">
 
 <img src={meme.randomImage} alt="meme" className="meme-img"  />
